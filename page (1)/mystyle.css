@@ -1,0 +1,48 @@
+body {
+    background-color: seashell;
+}
+
+table{
+    width: 100%;
+    border: solid black 1px;
+    max-width: 60%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    border-radius: 30px;
+}
+
+th {
+    height: 80px;
+    border: solid black 1px;
+    background-color: #A9A9A9;
+}
+
+td{
+    text-align: center;
+    height:70px;
+    border: solid black 1px;
+    padding: 15px;
+}
+
+h1 {
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+img {
+    max-width: 200px;
+    object-fit: fill;
+}
+
+#annija {
+    background: teal;
+}
+
+#elina {
+    background: pink;
+}
+
+#veronika {
+    background: yellowgreen;
+}
